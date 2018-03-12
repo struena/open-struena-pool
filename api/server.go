@@ -12,8 +12,8 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/sammy007/open-ethereum-pool/storage"
-	"github.com/sammy007/open-ethereum-pool/util"
+	"github.com/struena/open-struena-pool/storage"
+	"github.com/struena/open-struena-pool/util"
 )
 
 type ApiConfig struct {
